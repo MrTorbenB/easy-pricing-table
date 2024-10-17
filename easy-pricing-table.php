@@ -1,12 +1,11 @@
 <?php
 /*
 Plugin Name: Easy Pricing Table
-Plugin URI:  https://example.com
+Plugin URI: https://torbenb.info/download/
 Description: Erstelle einfache Preistabellen mit dem Shortcode [easy_pricing_table].
-Version:     1.0
-Author:      Dein Name
-Author URI:  https://example.com
-License:     GPLv2 or later
+Version: 1.2
+Author: TorbenB
+Author URI: https://torbenb.info/
 */
 
 // Funktion, um die Preistabelle anzuzeigen
